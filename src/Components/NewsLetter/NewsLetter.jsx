@@ -1,7 +1,7 @@
 import React from 'react';
-import './NewCollections.css';
+import './NewsLetter.css';
 
-const NewCollections = () => {
+const NewsLetter = () => {
     return (
         <div className='newsletter'>
             <h1>Get Exclusive Offers On Your Email</h1>
@@ -14,4 +14,4 @@ const NewCollections = () => {
     );
 }
 
-export default NewCollections;
+export default NewsLetter;
