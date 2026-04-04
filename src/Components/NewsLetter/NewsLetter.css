@@ -11,3 +11,8 @@
     background: linear-gradient(180deg, #fde1ff 0%, #e1ffea22 60%);
     gap: 30px;
 }
+.newsletter h1{
+    font-size: 60px;
+    font-weight: 600;
+    color: #171717;
+}
