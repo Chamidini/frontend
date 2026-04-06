@@ -5,5 +5,12 @@ export const ShopContext = createContext(null);
 
 const ShopContextProvider = (props) => {
 
-    const contexValue = {}
+    const contexValue = {all_products};
+    return (
+        <ShopContext.Provider value={contexValue}>
+            {props.children}
+        </ShopContext.Provider>
+    );  
 }
+
+export default ShopContextProvider;
