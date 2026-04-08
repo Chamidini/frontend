@@ -10,7 +10,7 @@ import men_product from "../Components/Assets/men_product.js";
 // import new_collection from '../Components/Assets/new_collections';
 
 const ShopCategory = (props) => {
-    const {men_product} = useContext(ShopContext);
+    const {all_product} = useContext(ShopContext);
     return (
         <div className="shop-category">
             <img className="shopcategory-banner" src={props.banner} alt="" />
