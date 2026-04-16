@@ -33,8 +33,9 @@ const ProductDisplay = (props) => {
                     <div className="productdisplay-right-price-new">${product.new_price}</div>
                 </div>
                 <div className="productdisplay-right-description">
-                    A lightweight, usually knitted,
+                    A lightweight and comfortable outfit designed for everyday wear, crafted from high-quality materials to ensure durability and breathability. It offers a perfect balance of style and functionality, making it suitable for casual outings, work, or special occasions. With its modern design and soft fabric, this piece provides all-day comfort while keeping you looking effortlessly stylish.
                 </div>
+
             </div>
         </div>
     )
