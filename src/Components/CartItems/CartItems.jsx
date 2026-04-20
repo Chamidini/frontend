@@ -1,10 +1,10 @@
-import React from "react";
+import React, {useContext} from "react";
 import './CartItems.css'
 import { ShopContext } from "../../Context/ShopContext";
 import remove_icon from '../Assets/cart_cross_icon.png';
 
 const CartItems = () => {
-    const {all_products,cartItems,removeFromCart} = useContext(ShopContext);
+    const {all_product,cartItems,removeFromCart} = useContext(ShopContext);
     return (
         <div className="cartitems">
             <div className="cartitems-format-main">
@@ -16,7 +16,7 @@ const CartItems = () => {
                 <p>Remove</p>
             </div>
             <hr />
-            {all_products.map((e) => {
+            {all_product.map((e) => {
                 if(cartItems[e.id]>0)
                     {
                         return <div>
@@ -31,7 +31,7 @@ const CartItems = () => {
                                     <hr />
                                 </div>
                     }
-
+                    return null;
             })}
         </div>
 
