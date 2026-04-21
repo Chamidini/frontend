@@ -34,3 +34,23 @@
     border: 2px solid #ebebeb;
     background: #fff;
 }
+
+/* HEADER */
+.cartitems-header{
+    display: grid;
+    grid-template-columns: 0.7fr 2fr 1fr 1fr 1fr 0.5fr;
+    align-items: center;
+    padding: 20px 0;
+    font-size: 18px;
+    font-weight: 600;
+    color: #454545;
+}
+
+/* ROW */
+.cartitems-row{
+    display: grid;
+    grid-template-columns: 0.7fr 2fr 1fr 1fr 1fr 0.5fr;
+    align-items: center;
+    padding: 20px 0;
+    font-size: 17px;
+}
