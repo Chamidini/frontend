@@ -33,10 +33,10 @@ const CartItems = () => {
                     }
                     return null;
             })}
-            
+
             <div className="cartitems-down">
                 <div className="cartitems-total">
-                    <h1>cart Totals</h1>
+                    <h1>Cart Totals</h1>
                     <div>
                         <div className="cartitems-total-item">
                             <p>Subtotal</p>
