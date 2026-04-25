@@ -88,4 +88,8 @@
         height: 45px;
         font-size: 16px;
     }
+    .nav-cart-count{
+        margin-left: -40px;
+        font-size: 12px;
+    }
 }
