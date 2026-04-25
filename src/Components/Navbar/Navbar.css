@@ -87,6 +87,8 @@
         width: 120px;
         height: 45px;
         font-size: 16px;
+        /* me line eka */
+        margin: 20px;
     }
     .nav-cart-count{
         margin-left: -40px;
