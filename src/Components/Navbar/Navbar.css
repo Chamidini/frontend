@@ -122,4 +122,10 @@
     .navbar{
         padding: 10px 0px;
     }
+    .nav_dropdown{
+        display: block;
+        width: 30px;
+        rotate: -90deg;
+        transition: 0.5s;
+    }
 }
