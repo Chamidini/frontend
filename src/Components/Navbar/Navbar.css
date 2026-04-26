@@ -128,6 +128,7 @@
         width: 30px;
         rotate: -90deg;
         transition: 0.5s;
+        cursor: pointer;
     }
     .nav-menu{
         display: none;
@@ -143,5 +144,21 @@
     }
     .nav_dropdown.open{
         transform: rotate(90deg);
+    }
+}
+@media(max-width:500px){
+    .navbar{
+        width: 8px 0px;
+        gap: 0;
+    }
+    .nav-logo{
+        transform: scale(0.8);
+    }
+    .nav-menu{
+        height: 70vh;
+        top: 50px;
+    }
+    .nav-login-cart{
+        transform: scale(0.8);
     }
 }
