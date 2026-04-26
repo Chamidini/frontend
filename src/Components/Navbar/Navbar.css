@@ -3,6 +3,7 @@
     justify-content: space-around;
     padding: 16px;
     box-shadow: 0 1px 3px -2px black;
+    align-items: center;
 }
 .nav-logo{
     display: flex;
@@ -136,5 +137,11 @@
         background-color: white;
         justify-content: center;
         top: 50px;
+    }
+    .nav_menu_visible{
+        display: flex;
+    }
+    .nav_dropdown.open{
+        transform: rotate(90deg);
     }
 }
