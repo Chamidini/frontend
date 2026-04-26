@@ -128,4 +128,13 @@
         rotate: -90deg;
         transition: 0.5s;
     }
+    .nav-menu{
+        display: flex;
+        height: 80vh;
+        width: 100%;
+        position: absolute;
+        background-color: white;
+        justify-content: center;
+        top: 50px;
+    }
 }
