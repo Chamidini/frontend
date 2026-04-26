@@ -66,6 +66,9 @@
     background: red;
     color: white;
 }
+.nav_dropdown{
+    display: none;
+}
 
 @media (max-width: 768px) {
     .navbar {
@@ -113,5 +116,10 @@
     .nav-cart-count{
         width: 18px;
         height: 18px;
+    }
+}
+@media(max-width:800px){
+    .navbar{
+        padding: 10px 0px;
     }
 }
