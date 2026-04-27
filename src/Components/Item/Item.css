@@ -34,4 +34,19 @@
     .item img{
         width: 220px;
     }
+    .item-price-old{
+        font-size: 14px;
+    }
+}
+@media(max-width: 1024px){
+    .item{
+        width: 170px;
+        font-size: 13px;
+    }
+    .item img{
+        width: 170px;
+    }
+    .item-price-old{
+        font-size: 13px;
+    }
 }
