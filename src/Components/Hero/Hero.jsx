@@ -2,8 +2,8 @@ import React from 'react'
 import './Hero.css'
 import hand_icon from '../Assets/hand_icon.png'
 import arrow_icon from '../Assets/arrow.png'
-import fashion_girl from '../Assets/fashion_girl.jpg'
-// import fashion_girl from '../Assets/hero_image.png'
+// import fashion_girl from '../Assets/fashion_girl.jpg'
+import fashion_girl from '../Assets/hero_image.png'
 
 const Hero = () => {
     return (
