@@ -44,8 +44,8 @@
     font-weight: 500;
 }
 .hero-right{
-    flex: 1;
-    /* display: flex; */
+    /* flex: 1; */
+    display: flex;
     align-items: center;
     justify-content: center;
 }
@@ -93,5 +93,32 @@
     }
     .hero-right img{
         width: 400px;
+    }
+}
+@media(max-width:800px){
+    .hero-left{
+        padding-left: 30px;
+    }
+    .hero-left h2{
+        font-size: 16px;
+    }
+    .hero-left p{
+        font-size: 40px;
+    }
+    .hero-hand-icon img{
+        width: 50px;
+    }
+    .hero-latest-btn{
+        width: 175px;
+        height: 40px;
+        font-size: 13px;
+    }
+    .hero-right img{
+        width: 300px;
+    }
+}
+@media(max-width:500px){
+    .hero{
+        flex-direction: column;
     }
 }
