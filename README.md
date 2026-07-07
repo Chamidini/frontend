@@ -133,6 +133,7 @@ Launches the test runner.
 ### Home Page
 
 (Add Home Page Screenshot Here)
+<img width="1633" height="725" alt="image" src="https://github.com/user-attachments/assets/0c69c12f-2c64-49a9-b45a-c02904e4ad76" />
 
 ### Product Page
 
