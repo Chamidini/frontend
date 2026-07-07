@@ -131,21 +131,23 @@ Launches the test runner.
 ## 📷 Screenshots
 
 ### Home Page
-
-(Add Home Page Screenshot Here)
-<img width="1633" height="725" alt="image" src="https://github.com/user-attachments/assets/0c69c12f-2c64-49a9-b45a-c02904e4ad76" />
+<img width="1890" height="852" alt="homepage 1" src="https://github.com/user-attachments/assets/9830ccf6-644a-4863-abdd-d467c0eb5c95" />
+<img width="1872" height="765" alt="homepage 2" src="https://github.com/user-attachments/assets/3ddc45c6-0712-47a6-84bb-a7f0c3b49a44" />
+<img width="1858" height="848" alt="homepage 3" src="https://github.com/user-attachments/assets/ae6c8c0c-91f7-49b1-b6b7-e7e70aaefe57" />
 
 ### Product Page
+<img width="1833" height="837" alt="men" src="https://github.com/user-attachments/assets/4e893394-bea2-4bf8-ae39-b88c5eee2e29" />
+<img width="1862" height="841" alt="women" src="https://github.com/user-attachments/assets/82dcc19d-1363-4e99-934d-d801d5750e87" />
+<img width="1841" height="828" alt="kids" src="https://github.com/user-attachments/assets/63f0aa2f-0d14-41a0-b719-7241e46c580a" />
 
-(Add Product Page Screenshot Here)
 
 ### Login Page
-
-(Add Login Screenshot Here)
+<img width="1097" height="852" alt="login page" src="https://github.com/user-attachments/assets/6dad9ce7-1916-494e-a172-8930ce2f7394" />
 
 ### Shopping Cart
+<img width="1756" height="760" alt="shopping cart 1" src="https://github.com/user-attachments/assets/303beca6-4fa8-4a73-92d4-3d59b6ba2f11" />
+<img width="1633" height="725" alt="shopping cart 2" src="https://github.com/user-attachments/assets/daf53442-a8c7-4b8c-9c76-f8ec0c3168ff" />
 
-(Add Cart Screenshot Here)
 
 ---
 
