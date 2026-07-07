@@ -1,70 +1,196 @@
-# Getting Started with Create React App
+# 🛍️ Shopper - E-commerce Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern and responsive e-commerce frontend application developed using **React.js**. This project provides a user-friendly shopping interface where users can browse products, view product details, manage a shopping cart, and access authentication pages.
 
-## Available Scripts
+> **Note:** This project currently includes the frontend implementation only. Backend integration and database functionality will be added in future development.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 📌 Project Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The Shopper E-commerce Frontend is designed to simulate the user interface of an online shopping platform. The application focuses on delivering a clean, responsive, and intuitive user experience while following modern React development practices.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## ✨ Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 🏠 Responsive Home Page
+- 👩 Women's Collection
+- 👨 Men's Collection
+- 🧒 Kids Collection
+- 🔍 Product Listing
+- 📄 Product Details Page
+- 🛒 Shopping Cart
+- 🔐 Login Page
+- 📝 Registration Page
+- 📱 Responsive Design
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠️ Built With
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 📂 Project Structure
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
+src/
+│
+├── Components/
+├── Pages/
+├── Assets/
+├── Context/
+├── App.js
+└── index.js
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🚀 Getting Started
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Prerequisites
 
-## Learn More
+Before running this project, make sure you have installed:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Node.js
+- npm
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+### Installation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Clone the repository
 
-### Analyzing the Bundle Size
+```bash
+git clone https://github.com/Chamidini/frontend.git
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Go to the project folder
 
-### Making a Progressive Web App
+```bash
+cd frontend
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Install dependencies
 
-### Advanced Configuration
+```bash
+npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Start the development server
 
-### Deployment
+```bash
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Open your browser and visit
 
-### `npm run build` fails to minify
+```
+http://localhost:3000
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+## 📜 Available Scripts
+
+### Start Development Server
+
+```bash
+npm start
+```
+
+Runs the app in development mode.
+
+---
+
+### Build Production Version
+
+```bash
+npm run build
+```
+
+Builds the app for production.
+
+---
+
+### Run Tests
+
+```bash
+npm test
+```
+
+Launches the test runner.
+
+---
+
+## 📷 Screenshots
+
+### Home Page
+
+(Add Home Page Screenshot Here)
+
+### Product Page
+
+(Add Product Page Screenshot Here)
+
+### Login Page
+
+(Add Login Screenshot Here)
+
+### Shopping Cart
+
+(Add Cart Screenshot Here)
+
+---
+
+## 📌 Future Improvements
+
+- Backend Integration
+- User Authentication
+- Database Connectivity
+- Product Search
+- Wishlist Feature
+- Payment Gateway
+- Order Management
+- Admin Dashboard
+
+---
+
+## 🎯 Learning Outcomes
+
+During this project, I gained practical experience with:
+
+- React Components
+- Props
+- State Management
+- React Hooks
+- Component-Based Architecture
+- Responsive Web Design
+- Project Structure Organization
+
+---
+
+## 👩‍💻 Author
+
+**Swetha Udagedara**
+
+Bachelor of Computing (Honours) in Software Engineering
+
+University of Sri Jayewardenepura
+
+GitHub:
+https://github.com/Chamidini
+
+LinkedIn:
+(Add your LinkedIn Profile URL)
+
+---
+
+## 📄 License
+
+This project is developed for educational and portfolio purposes.
